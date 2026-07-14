@@ -7,7 +7,7 @@ Rocky's phased path — from private perps to Canton's unified liquidity layer. 
 Launch trading and capital entry points.
 
 * **Privacy-preserving perpetuals** — order-book trading, market-maker API, risk & liquidation, Canton-native settlement.
-* **Wallet Yield** — stablecoin deposit products and delta-neutral funding-rate strategies.
+* **Rocky Wallet** — self-custodial capital entry point.
 * **Market maker onboarding.**
 * **Canton ecosystem activity** — every trade, settlement, and margin event drives Canton usage.
 
@@ -29,5 +29,5 @@ Become price and liquidity infrastructure for all of Canton.
 * **24/7 price discovery** across Canton assets.
 
 {% hint style="info" %}
-These phases compound into a **liquidity flywheel**: stablecoin deposits fund perp trading and wallet yield, which generate fees, data, and Canton activity — attracting more capital.
+These phases compound into a **liquidity flywheel**: capital flows into privacy-preserving perp trading, which generates fees, data, and Canton activity — attracting more liquidity over time.
 {% endhint %}

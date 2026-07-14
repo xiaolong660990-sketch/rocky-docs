@@ -7,7 +7,6 @@ Rocky is not just another perp DEX. Perpetuals are the entry point: the fastest 
 ## What Rocky offers
 
 * **Private perpetuals** — trade crypto and tokenized real-world assets with leverage; your positions stay confidential.
-* **Wallet Yield** — put idle stablecoins to work through delta-neutral and fee-based strategies.
 * **Self-custody** — you hold your keys; the exchange never takes custody.
 
 ## The problem with transparent chains

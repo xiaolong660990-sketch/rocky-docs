@@ -6,7 +6,6 @@
 
 * **Rewards** — activity on Rocky (trading, providing liquidity, ecosystem participation) is tied to Canton Coin reward programs.
 * **Trading margin** — CC can be used as margin for perps and future collateralized products.
-* **Wallet Yield entry** — CC holders can participate in Rocky's yield products.
 * **Fee discounts** — CC can support fee discounts, user tiers, and loyalty mechanics.
 * **Market maker incentives** — CC helps bootstrap early liquidity providers.
 * **RWA & cross-app settlement** — CC can participate in collateral flows and settlement across Canton applications.

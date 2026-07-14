@@ -18,10 +18,6 @@
 * [Funding & Mark Price](trading/funding-and-mark-price.md)
 * [Contract Specifications](trading/contract-specifications.md)
 
-## Wallet Yield
-
-* [Wallet Yield](wallet-yield.md)
-
 ## Privacy
 
 * [Privacy Model](privacy.md)
