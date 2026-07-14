@@ -1,4 +1,4 @@
-# What is Rocky Exchange
+# What is Rocky
 
 Rocky is a privacy-first perpetuals exchange built natively on the Canton Network — trade with leverage without broadcasting your positions to the entire market.
 
