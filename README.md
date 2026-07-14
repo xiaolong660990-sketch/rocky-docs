@@ -16,7 +16,6 @@ Canton delivers institutional-grade privacy, atomic settlement, and enterprise b
 * **Privacy-preserving interoperability** — transact privately while staying interoperable across regulated assets and networks.
 * **Institutional-grade rails** — architecture and onboarding standards trusted by banks, custodians, and asset managers.
 * **DAML + atomic settlement** — complex financial logic with reduced counterparty and settlement risk.
-* **Canton Coin (CC) incentives** — native reward programs that fund ecosystem growth.
 
 ## How Rocky works
 
