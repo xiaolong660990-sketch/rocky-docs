@@ -22,10 +22,6 @@
 
 * [Privacy Model](privacy.md)
 
-## Ecosystem
-
-* [Canton Coin (CC)](cc.md)
-
 ## Trust & Legal
 
 * [Security](security.md)
