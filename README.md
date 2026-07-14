@@ -1,8 +1,14 @@
 # What is Rocky
 
-Rocky is a privacy-first perpetuals exchange built natively on the Canton Network — trade with leverage without broadcasting your positions to the entire market.
+Rocky is a **privacy-first perpetuals exchange** built natively on the **Canton Network** — trade with leverage without broadcasting your positions to the entire market.
 
-Open long or short on crypto and real-world assets from a self-custodial wallet. Your balances and positions stay private, while the exchange's solvency stays publicly verifiable.
+Open long or short on crypto and tokenized real-world assets from a self-custodial wallet. Your balances and positions stay private, while the exchange's solvency stays publicly verifiable.
+
+## What you can do on Rocky
+
+* **Trade perpetuals** — go long or short with leverage on crypto and RWA markets.
+* **Stay private** — your positions, balances, and liquidation levels are not visible to others.
+* **Stay in control** — a self-custodial wallet; the exchange never holds your keys.
 
 ## Why Canton
 
@@ -15,10 +21,8 @@ Most perpetual exchanges publish every position and liquidation price on-chain, 
 * **Real assets, one venue.** Crypto and tokenized real-world assets, side by side.
 * **Self-custodial.** You hold your keys; every action needs your signature.
 
-## How Rocky Works
-
-Orders match on a price-time-priority order book and settle on Canton. You hold your own keys through Rocky Wallet; the exchange never takes custody.
-
 {% hint style="info" %}
-**New to perps?** A perpetual is a leveraged contract with no expiry. You post margin, open a long or short, and a funding rate keeps the contract tracking the underlying price. Start with [Your First Trade](getting-started/your-first-trade.md).
+**New to perpetuals?** A perpetual is a leveraged contract with no expiry. You post margin, open a long or short, and a funding rate keeps the contract tracking the underlying price. Start with [Your First Trade](getting-started/your-first-trade.md).
 {% endhint %}
+
+Continue to the [Roadmap](roadmap.md) to see where Rocky is headed, or jump into [Getting Started](getting-started/rocky-wallet.md).

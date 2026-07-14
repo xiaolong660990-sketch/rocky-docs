@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is Rocky](README.md)
+* [Roadmap](roadmap.md)
 
 ## Getting Started
 
