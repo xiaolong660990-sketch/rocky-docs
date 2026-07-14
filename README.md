@@ -9,18 +9,6 @@ Rocky is not just another perp DEX. Perpetuals are the entry point: the fastest 
 * **Private perpetuals** — trade crypto and tokenized real-world assets with leverage; your positions stay confidential.
 * **Self-custody** — you hold your keys; the exchange never takes custody.
 
-## The problem with transparent chains
-
-Most perp DEXs are built on transparent public chains. For large capital and institutions, transparency isn't an advantage — it's a vulnerability. Public chains can expose:
-
-* Positions and liquidation levels
-* Order flow and trading patterns
-* Market maker behavior
-* Large trade intentions
-* OTC / RWA negotiation information
-
-For retail it's an uncomfortable trade-off; for **whales, market makers, and institutions it's a structural problem.**
-
 ## Why Canton
 
 Canton delivers institutional-grade privacy, atomic settlement, and enterprise backing at scale:
