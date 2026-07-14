@@ -9,7 +9,7 @@
 * [Deposit & Withdraw](getting-started/deposit-and-withdraw.md)
 * [Your First Trade](getting-started/your-first-trade.md)
 
-## Trading
+## Perpetuals
 
 * [Overview](trading/overview.md)
 * [Fees](trading/fees.md)
@@ -18,9 +18,17 @@
 * [Funding & Mark Price](trading/funding-and-mark-price.md)
 * [Contract Specifications](trading/contract-specifications.md)
 
+## Wallet Yield
+
+* [Wallet Yield](wallet-yield.md)
+
 ## Privacy
 
 * [Privacy Model](privacy.md)
+
+## Ecosystem
+
+* [Canton Coin (CC)](cc.md)
 
 ## Trust & Legal
 

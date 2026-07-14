@@ -1,43 +1,33 @@
 # Roadmap
 
-Rocky is being built in phases — first a private, self-custodial trading core, then liquidity and assets, then the wider ecosystem. The roadmap below is **indicative** and may change as the product and market evolve.
+Rocky's phased path — from private perps to Canton's unified liquidity layer. Timelines are **indicative**; for a real-funds venue, correctness comes before speed.
 
-## Phase 1 — Genesis _(in progress)_
+## Phase 1 — Private Perps + Wallet _(now)_
 
-The foundation: a working, private perpetuals exchange with self-custody.
+Launch trading and capital entry points.
 
-* Rocky Wallet — self-custodial wallet on Canton (connect or email sign-up).
-* Private perpetuals — open/close positions with leverage; positions kept confidential.
-* Core trading engine — order book, margin, liquidations, funding, mark price.
-* Early-access community program — onboarding the first cohort of users.
+* **Privacy-preserving perpetuals** — order-book trading, market-maker API, risk & liquidation, Canton-native settlement.
+* **Wallet Yield** — stablecoin deposit products and delta-neutral funding-rate strategies.
+* **Market maker onboarding.**
+* **Canton ecosystem activity** — every trade, settlement, and margin event drives Canton usage.
 
-## Phase 2 — Open Trading
+## Phase 2 — RWA Liquidity
 
-Opening the doors and deepening the market.
+Extend privacy-preserving infrastructure to institutional assets.
 
-* Public launch of real-funds trading.
-* Deeper liquidity and tighter spreads.
-* More markets — additional crypto pairs and tokenized real-world assets.
-* Refined trading UX and mobile access.
+* **RWA OTC** with private RFQ (request-for-quote) workflows.
+* **Block trades** — large size without market impact or information leakage.
+* **Collateral & settlement workflows** for tokenized real-world assets.
 
-## Phase 3 — Liquidity & Assets
+## Phase 3 — Unified Liquidity Layer
 
-Making Rocky a venue people can size into.
+Become price and liquidity infrastructure for all of Canton.
 
-* Liquidity vault — provide liquidity and earn a share of trading activity.
-* Market maker program.
-* Expanded RWA markets.
-* Portfolio / cross-margin improvements.
-
-## Phase 4 — Ecosystem & Token
-
-Aligning the community and opening the platform.
-
-* CC rewards and token utility.
-* Governance and long-term incentive alignment.
-* Public API and third-party integrations.
-* Institutional-grade features.
+* **Oracles & price discovery** — perp data, funding, basis, and OTC reference prices.
+* **CCTP cross-chain liquidity** — route external stablecoin capital into Canton.
+* **AI strategies** — funding-rate arbitrage, yield optimization, automated hedging.
+* **24/7 price discovery** across Canton assets.
 
 {% hint style="info" %}
-Timelines are intentionally not fixed. We ship when each phase is safe and ready — for a real-funds exchange, correctness comes before speed.
+These phases compound into a **liquidity flywheel**: stablecoin deposits fund perp trading and wallet yield, which generate fees, data, and Canton activity — attracting more capital.
 {% endhint %}
