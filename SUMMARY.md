@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Rocky](README.md)
+* [What is Rocky Exchange](README.md)
 
 ## Getting Started
 
